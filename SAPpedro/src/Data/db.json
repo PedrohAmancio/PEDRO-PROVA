@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "id": "7",
+      "nome": "Cristiano",
+      "email": "cr7@gmail.com"
+    },
+    {
+      "id": "bcd0",
+      "nome": "Dito",
+      "email": "naoeumpokemon@gmail.com"
+    },
+    {
+      "id": "90fb",
+      "nome": "Charmander",
+      "email": "naosouumdragao@gmail.com"
+    }
+  ],
+  "tarefas": [
+    {
+      "descricao": "possui",
+      "setor": "sim",
+      "data": "20-02-29",
+      "status": "A fazer",
+      "prioridade": " Baixa ",
+      "usuario": "Dito",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "descricao": "Tarefa importante para chuchu",
+      "setor": "Não importante",
+      "prioridade": "Alta",
+      "data": "20-03-2122",
+      "status": "Pronto",
+      "usuario": "Dito"
+    },
+    {
+      "id": "155b",
+      "descricao": "Não possui",
+      "setor": "sim",
+      "data": "20-02-29",
+      "status": "A fazer",
+      "prioridade": " Baixa ",
+      "usuario": "Charmander"
+    }
+  ]
+}
